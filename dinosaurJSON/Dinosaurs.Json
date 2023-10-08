@@ -1,0 +1,36 @@
+[ {
+  "id" : 1,
+  "name" : "Tyrannosaurs Rex",
+  "type" : "Carnivore",
+  "habitat" : "Land"
+}, {
+  "id" : 2,
+  "name" : "pterodactyl",
+  "type" : "Carnivore",
+  "habitat" : "Sky"
+}, {
+  "id" : 3,
+  "name" : "Quetzalcoatlus",
+  "type" : "Carnivore",
+  "habitat" : "Sky"
+}, {
+  "id" : 4,
+  "name" : "Mossasaurus",
+  "type" : "Carnivore",
+  "habitat" : "Sea"
+}, {
+  "id" : 5,
+  "name" : "Elasmosaurus",
+  "type" : "Carnivore",
+  "habitat" : "Sea"
+}, {
+  "id" : 6,
+  "name" : "Stegosaurus",
+  "type" : "Herbivore",
+  "habitat" : "Land"
+}, {
+  "id" : 7,
+  "name" : " Brachiosaurus",
+  "type" : "Herbivore",
+  "habitat" : "Land"
+} ]

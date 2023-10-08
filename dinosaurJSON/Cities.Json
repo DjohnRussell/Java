@@ -1,0 +1,33 @@
+[ {
+  "id" : 1,
+  "name" : "Oslo",
+  "population" : 1710000
+}, {
+  "id" : 2,
+  "name" : "Halden",
+  "population" : 22184
+}, {
+  "id" : 2,
+  "name" : "Fredrikstad",
+  "population" : 82000
+}, {
+  "id" : 3,
+  "name" : "Madrid",
+  "population" : 6669000
+}, {
+  "id" : 4,
+  "name" : "Sydney",
+  "population" : 4992000
+}, {
+  "id" : 5,
+  "name" : "Tokyo",
+  "population" : 13960000
+}, {
+  "id" : 6,
+  "name" : "Istanbul",
+  "population" : 15840900
+}, {
+  "id" : 7,
+  "name" : "Johannesburg",
+  "population" : 5927000
+} ]

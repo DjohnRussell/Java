@@ -1,0 +1,4 @@
+flower{color='Pink', blossomTime=35, seasonForBlossom='Spring', name='Old garden Rose', famile='Rosaceae'}
+flower{color='Pink', blossomTime=20, seasonForBlossom='Summer', name='Wild Rose', famile='Rosaceae'}
+flower{color='Pink/Red', blossomTime=40, seasonForBlossom='Spring/Summer', name='Modern garden Rose', famile='Rosaceae'}
+flower{color='White', blossomTime=14, seasonForBlossom='Spring/Summer', name='Dandelion', famile='Rosaceae'}
